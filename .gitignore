@@ -1,6 +1,8 @@
 # Node modules
 node_modules/
 
+/server.zip
+/client/client.zip
 # Environment variables
 .env
 .env.local
